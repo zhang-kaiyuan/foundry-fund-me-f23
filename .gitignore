@@ -11,6 +11,3 @@ docs/
 # Dotenv file
 .env
 .gas-snapshot
-
-# Lib
-lib/
